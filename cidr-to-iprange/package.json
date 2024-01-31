@@ -1,0 +1,22 @@
+{
+  "name": "cidr-to-iprange",
+  "version": "0.0.1",
+  "description": "cli to convert cidr to ip ranges",
+  "main": "cidr-to-iprange.js",
+  "bin": {
+    "cidr-to-iprange.js": "cidr-to-iprange.js"
+  },
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderankin/node-projects.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alexanderankin/node-projects/issues"
+  },
+  "homepage": "https://github.com/alexanderankin/node-projects#readme"
+}
