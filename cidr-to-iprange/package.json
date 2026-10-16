@@ -1,6 +1,6 @@
 {
   "name": "cidr-to-iprange",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cli to convert cidr to ip ranges",
   "main": "cidr-to-iprange.js",
   "bin": {
